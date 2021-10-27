@@ -10,7 +10,7 @@
 
 void shenanigans(int num){
     for(int i=0; i < num; i++){
-        std::cout << "dick" << std::endl;
+        std::cout << "fusc" << std::endl;
     }
     return;
 }
